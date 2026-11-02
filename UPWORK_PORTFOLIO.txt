@@ -1,0 +1,23 @@
+PROJECT TITLE
+Python CSV Data Cleaner and Validator
+
+ROLE
+Python Automation and Data Validation — Personal Portfolio Project
+
+PROJECT DESCRIPTION
+Personal demo of a Python tool that cleans and validates customer CSV exports. It normalizes whitespace and formatting, removes exact duplicate records, and flags missing values, invalid email formats, and inconsistent country codes. Deliverables include cleaned data, rejected records with reasons, an issue audit, and a standalone HTML report. The synthetic demo processes 12 records into 5 valid records and 7 flagged records. Includes 10 automated tests. Created with AI assistance; no client data used.
+
+SKILLS
+Python
+Data Cleaning
+Data Validation
+CSV
+Automation
+
+UPLOAD CHECKLIST
+1. Run the demo on your own Windows machine.
+2. Review code and tests; make sure you can explain every advertised feature.
+3. Add portfolio_cover.png and demo_results.png as project images. They are presentation graphics, not screenshots. Also capture your own browser screenshot of demo_output/report.html.
+4. Paste the title and description above into the matching fields.
+5. Describe your actual role accurately. This starter was AI-assisted, not a historical client engagement.
+6. Optional: record a 60–90 second demo showing input, command, outputs, and tests.

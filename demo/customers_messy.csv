@@ -1,0 +1,13 @@
+Customer ID,Name,Email,Country
+ C001 ,  Alice   Nguyen ,alice@EXAMPLE.COM,us
+C002,Ben Tran,ben@example.com,US
+C002,Ben Tran,ben@example.com,US
+C003,Chi Le,chi.example.com,VN
+C004,David Pham,david@example.com, ca
+C005,,empty-name@example.com,US
+C006,Elena Vo,elena@example.com,usa
+C007,  Phương   Nguyễn  ,phuong@example.com,vn
+C008,Fred Huynh,,US
+C009,Gina Do,gina@example.com,US
+C010,=HYPERLINK("example.com"),formula@example.com,US
+,,,

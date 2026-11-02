@@ -1,0 +1,16 @@
+﻿record,severity,code,detail
+1,info,normalized,"Trimmed whitespace, collapsed name spacing, uppercased country, or lowercased email domain."
+3,warning,duplicate,Exact normalized duplicate removed; no fuzzy matching.
+4,error,invalid_email,Email failed a basic format check; no mailbox verification performed.
+5,info,normalized,"Trimmed whitespace, collapsed name spacing, uppercased country, or lowercased email domain."
+6,error,missing_name,name is required.
+7,info,normalized,"Trimmed whitespace, collapsed name spacing, uppercased country, or lowercased email domain."
+7,error,invalid_country,Country must be two ASCII letters; country existence is not checked.
+8,info,normalized,"Trimmed whitespace, collapsed name spacing, uppercased country, or lowercased email domain."
+9,error,missing_email,email is required.
+11,error,spreadsheet_formula,name starts with a spreadsheet formula indicator.
+12,error,empty_record,All fields are empty.
+12,error,missing_customer_id,customer_id is required.
+12,error,missing_name,name is required.
+12,error,missing_email,email is required.
+12,error,missing_country,country is required.
