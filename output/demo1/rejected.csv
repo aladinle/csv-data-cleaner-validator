@@ -1,8 +1,0 @@
-﻿record,reason,original_json
-3,duplicate,"{""customer_id"": ""C002"", ""name"": ""Ben Tran"", ""email"": ""ben@example.com"", ""country"": ""US""}"
-4,invalid_email,"{""customer_id"": ""C003"", ""name"": ""Chi Le"", ""email"": ""chi.example.com"", ""country"": ""VN""}"
-6,missing_name,"{""customer_id"": ""C005"", ""name"": """", ""email"": ""empty-name@example.com"", ""country"": ""US""}"
-7,invalid_country,"{""customer_id"": ""C006"", ""name"": ""Elena Vo"", ""email"": ""elena@example.com"", ""country"": ""usa""}"
-9,missing_email,"{""customer_id"": ""C008"", ""name"": ""Fred Huynh"", ""email"": """", ""country"": ""US""}"
-11,spreadsheet_formula,"{""customer_id"": ""C010"", ""name"": ""=HYPERLINK(\""example.com\"")"", ""email"": ""formula@example.com"", ""country"": ""US""}"
-12,empty_record; missing_customer_id; missing_name; missing_email; missing_country,"{""customer_id"": """", ""name"": """", ""email"": """", ""country"": """"}"
